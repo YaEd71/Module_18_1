@@ -13,6 +13,6 @@ def games(request):
 
 def cart(request):
     return render(request, 'third_task/cart.html')
-from django.shortcuts import render
+0
 
 
